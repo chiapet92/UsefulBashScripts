@@ -2,7 +2,7 @@
 
 # old_name = 'HIST_LNDC_STD_STR_ITEM_M'
 # new_name = 'LNDC_STD_STR_ITEM_M_HIST'
-old_name='HIST_LNDC_STD_STR_ITEM_MV_M'
+old_name='mydrill_xref_store_trait'
 new_name='LNDC_STD_STR_ITEM_MV_M_HIST'
 
 sed_string='s/'$old_name'/'$new_name'/i'
